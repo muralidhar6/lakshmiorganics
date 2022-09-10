@@ -33,6 +33,7 @@ h1 {
     text-decoration: none;
     text-align: right;
     font: bold; 
+    position: fixed;
     
 }
 .nav-bt:hover{
